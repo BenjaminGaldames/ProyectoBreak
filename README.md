@@ -1,2 +1,5 @@
-# meditation-app
-Meditation app tutorial
+### Benjamin Galdames ###
+
+V1.0
+
+#########################
